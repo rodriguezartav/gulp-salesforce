@@ -1,4 +1,4 @@
-r2
+gulp-vf
 ==
 
 Gulp Plugins for Salesforce &amp; Visualforce

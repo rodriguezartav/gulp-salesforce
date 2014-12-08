@@ -1,6 +1,6 @@
 module.exports = {
-	login: require("./login"),
-	transform: require("./transform"),
-	upload: require("./upload"),
-	static: require("./static")
+	login: require("./lib/login"),
+	transform: require("./lib/transform"),
+	upload: require("./lib/upload"),
+	static: require("./lib/static")
 }

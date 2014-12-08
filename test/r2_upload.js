@@ -6,8 +6,7 @@ var gulp = require("gulp");
 
 var r2 = require("../plugins/gulp-r2");
 
-
-var config = require("../clayconfig");
+var config = require("r2-config");
 r2.login.setter = config;
 
 var glog = require('gulp-api-log');

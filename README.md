@@ -1,4 +1,4 @@
-gulp-vf
+gulp-salesforce
 ==
 
 Gulp Plugins for Salesforce &amp; Visualforce

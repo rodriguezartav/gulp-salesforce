@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 test/.env
 ./test/.env
+.env
 node_modules
 =======
 # Logs

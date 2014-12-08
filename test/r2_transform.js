@@ -7,9 +7,9 @@ var gulp = require("gulp");
 var r2 = require("../plugins/gulp-r2")
 
 var glog = require('gulp-api-log');
-//glog(gulp);
+glog(gulp);
 
-var config = require("../clayconfig");
+var config = require("r2-config");
 
 
 test('should transform all relative paths', function (t) {
